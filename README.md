@@ -7,3 +7,4 @@ Join the numbers and get to the 2048 tile or higher if you can.
 Size of the puzzle : 4 x 4
 Difficulty level : Hard
 So let's play to 2048 and try to beat your highest score! :)
+Click on 2048gui.py file in 2048 folder of the repository to play the game!!!
